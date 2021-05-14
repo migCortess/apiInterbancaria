@@ -1,7 +1,7 @@
 const config = {
-    user: 'sa',
+    user: 'interbancaria',
     password:'Netzwerk2806',
-    server:'192.168.0.7',
+    server:'interbancaria.database.windows.net',
     database:'ContribucionInterbancaria',
     options:{
         trustedconnection: false,
